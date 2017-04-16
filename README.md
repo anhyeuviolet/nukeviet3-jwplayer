@@ -3,11 +3,11 @@ Fix error #2035 when embed JWplayer inside HTML content.
 
 # Hướng dẫn cho NukeViet 3.4
 
-Download từ đây:
+Download file ZIP từ đây:
 
 https://github.com/anhyeuviolet/nukeviet3-jwplayer
 
-Download các file đính kèm về giải nén ghi đè lên các file hệ thống, có thể dùng chức năng cài đặt và đóng gói tự động trong admin để cài đặt tự động (bỏ qua các cảnh báo) mở file /theme/theme-dang-dung/layout/header.tpl thêm phía trước
+Download các file ZIP đính kèm về giải nén ghi đè lên các file hệ thống, hoặc có thể dùng chức năng cài đặt và đóng gói tự động trong admin để cài đặt tự động (bỏ qua các cảnh báo) mở file /theme/theme-dang-dung/layout/header.tpl thêm phía trước
 
 `</head>`
 
